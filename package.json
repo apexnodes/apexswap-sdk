@@ -1,8 +1,8 @@
 {
-  "name": "granitaswap-sdk",
+  "name": "apexswap-sdk",
   "license": "MIT",
   "version": "1.2.0",
-  "description": "🛠 An SDK for building applications on top of granitaswap.",
+  "description": "🛠 An SDK for building applications on top of apexswap.",
   "main": "dist/index.js",
   "module": "dist/sdk.esm.js",
   "typings": "dist/index.d.ts",
@@ -10,11 +10,11 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/GranitaSwap/granitaswap-sdk",
+  "repository": "https://github.com/apexnodes/apexswap-sdk",
   "keywords": [
-    "granitaswap",
+    "apexswap",
     "ethereum",
-    "metis"
+    "Avalanche"
   ],
   "scripts": {
     "lint": "tsdx lint src test",
